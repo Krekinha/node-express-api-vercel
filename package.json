@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx src/index.ts",
-    "build": "tsc src/index.ts",
-    "start": "node dist/index.js "
+    "dev": "tsx index.ts",
+    "build": "tsc index.ts",
+    "start": "node index.js "
   },
   "keywords": [],
   "author": "",
