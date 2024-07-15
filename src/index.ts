@@ -19,8 +19,6 @@ app
     console.log("HTTP Server Running");
   });
 
-  module.exports = app
-
 
 // const app = express()
 // const PORT = 4000
